@@ -11,16 +11,13 @@ Reasons why we wanted to look into these factors and were interested in answerin
 
 # Analysis 
 ![image](https://github.com/user-attachments/assets/a78b0a62-6d7a-4d62-8e06-4dc2eca03431)
-
 ![image](https://github.com/user-attachments/assets/9b57832a-be6f-4655-8c96-6fde55612ad6)
-
 ![image](https://github.com/user-attachments/assets/695fa8cc-9437-4467-90c7-803b8b2c8384)
-
 ![image](https://github.com/user-attachments/assets/63ceeca4-e4ed-4f7b-84f2-d728d37ec1ac)
-
 ![image](https://github.com/user-attachments/assets/416df6fb-1ef0-44c5-af1c-c929182856a2)
-
 ![image](https://github.com/user-attachments/assets/7d2273e4-cc1f-490b-bcfc-9cbd980c9092)
+![image](https://github.com/user-attachments/assets/7d642112-5b8e-41f7-800a-1588ec86ff31)
+
 
 # Repo Description 
 Group Project 1
